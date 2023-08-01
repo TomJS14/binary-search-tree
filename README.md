@@ -2,7 +2,7 @@
 
 # binary-search-tree
 
-## My [Odin Project linked lists] Submission
+## My [Odin Project BST] Submission
 
 ---
 
